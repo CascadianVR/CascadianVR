@@ -1,6 +1,6 @@
 # Hello there! I'm Mason (aka Cascadian) 👋
 
-Welcome to my GitHub profile! I'm Mason, known in the digital realm as "Cascadian" or "Cascas." I'm a tech enthusiast with a passion for programming, hardware, and 3D art.
+Welcome to my GitHub profile! I'm Mason, known in the digital realm as "Cascadian" I'm a tech enthusiast with a passion for programming, hardware, and 3D art.
 
 ## What do I do?
 
