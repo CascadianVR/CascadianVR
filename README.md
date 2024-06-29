@@ -12,7 +12,7 @@ I hold a Bachelor's degree in Electrical & Computer Engineering, which has fuele
 
 - **Hardware**: With a solid foundation in Electrical & Computer Engineering, I enjoy tinkering with hardware and integrating it with my software projects.
 
-## Let's Connect!
+## Contact
 
 I'm always excited to collaborate on interesting projects and discuss innovative ideas. Feel free to reach out through any of the following platforms:
 
